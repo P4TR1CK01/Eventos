@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+.container {
+  min-height: 50rem;
+}
+#cont-2 {
+  background-color: lightskyblue;
+}
